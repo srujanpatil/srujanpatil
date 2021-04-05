@@ -1,7 +1,7 @@
 <h1>Hi there 👋</h1>
 
 <p>
-  Check out my blog at [srujanpatil.github.io](https://srujanpatil.github.io)
+  Check out my blog at <a href="https://srujanpatil.github.io" target="_blank">srujanpatil.github.io</a>
 </p>
 
 <p align="center">
